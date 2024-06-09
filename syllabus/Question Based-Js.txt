@@ -1,0 +1,59 @@
+1. what is debouncing 
+2. How does debouncing work?
+3. What is Throttle?
+4. usecase of debouncing and throtting ?
+5. Callbacks ?
+6. Promises and it's all methods
+7. Async/await
+8. Strict mode
+9. Higher order functions
+10. Call, apply, bind
+11. scope and scope chain
+12. closures
+13. hoisting
+14. IIFE
+15. Currying && Placeholders
+16. PolyFills
+17. Responsive in js
+18. Event Delegation
+19. Tree Shaking In webPack
+20. Front end development optimization
+21. Javascript is which type od language (Statically typed or dynamically typed)
+22. const let var 
+23. temporal dead zone
+24. difference between == and ===
+25. Nan property
+26. null , undefined difference
+27. bom & Dom
+28. Critical render path?
+29. Rest parameter and Spread operator
+30. keyword
+31. is js singlethreaded. if yes then how it works as  an multi-threaded Language ? or what is event loop in js?
+32. callback hell
+33. observables
+34. difference between proimise and observable
+35. setrtimeout, setInterval, process.nextClick
+36. Microtask
+37. pure function
+38. Error object and different error names
+39. error handling ? various statements
+40. cookie, local storage and session storage
+41. prototype chaining
+42. what are generators and what are its different kinds?
+43. deep flatten I  || Deep flatten II || Deep Flatten IV
+44. Negative indexies in arrays (Proxies)
+45. Pipe Method
+46. Auto retry promises
+47. custom js promises
+48. throtling promises by Batching
+49. custom deep equal
+50. custom object assign
+51. custom json.stringify
+52. custom json parse
+53. custom typeof operator
+54. custom loadash_.get(), loadash_.set(), loadash_.omit(),loadash_.chunck(), loadash_.partial(),loadash_.once(),loadash_.memoize(),
+55. custom string tokenizer, settimeout, setinterval,clearAllTimers(), event emitters, browser history
+56. custom deep clone
+57. promisfy the async callbacks
+58. N async dasks in series,N async dasks in Parallal, N async dasks in race
+59. custom Object.is(), reduce() trim()
