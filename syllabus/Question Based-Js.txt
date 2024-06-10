@@ -83,6 +83,10 @@
 83. What is the purpose of the async and await keywords in JavaScript?
 84. List some features of JavaScript.
 85. What is js?
+86. Who developed JavaScript, and what was the first name of JavaScript?
+87. ist some of the advantages of JavaScript.
+88. List some of the disadvantages of JavaScript.
+89. In JavaScript what is an argument object?
 
 
 
