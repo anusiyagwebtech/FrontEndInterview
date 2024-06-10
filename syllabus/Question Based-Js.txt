@@ -103,6 +103,15 @@
 103. What is the requirement of debugging in JavaScript?
 104. WeakMap 
 105. What are the falsy values in JavaScript, and how can we check if a value is falsy?
+106. https://www.javatpoint.com/javascript-interview-questions attend the quiz
+107. https://www.javatpoint.com/javascript-quiz 
+108. https://www.geeksforgeeks.org/quizzes/javascript-course-quiz-1/
+109. https://www.w3schools.com/js/js_quiz.asp
+110. https://test.sanfoundry.com/javascript-tests/
+111. https://javascriptquiz.com/
+112. https://www.jschallenger.com/overview
+113. https://www.codechef.com/practice/javascript
+114. https://www.w3docs.com/quiz-start/javascript-basic
 
 
 
