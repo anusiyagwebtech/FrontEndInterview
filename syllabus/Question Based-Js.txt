@@ -57,3 +57,55 @@
 57. promisfy the async callbacks
 58. N async dasks in series,N async dasks in Parallal, N async dasks in race
 59. custom Object.is(), reduce() trim()
+60. Which company developed JavaScript?
+61. event bubbling
+62. Why do we use the word “debugger” in javascript?
+63.  Explain Implicit Type Coercion in javascript.
+64. Explain passed by value and passed by reference.
+65. What are the types of errors in javascript?
+66. What is memoization?
+67.  What is the use of a constructor function in javascript?
+68. What is DOM?
+69.  What do you mean by BOM?
+70.  What are arrow functions?
+71.  What do mean by prototype design pattern?
+72. Explain WeakMap in javascript.
+73. Difference between prototypal and classical inheritance
+74.  What is the role of deferred scripts in JavaScript?
+75.  What has to be done in order to put Lexical Scoping into practice?
+76. What is the purpose of the “this” keyword in JavaScript?
+77.  What is the difference between function declarations and function expressions?
+78. What is the difference between synchronous and asynchronous programming?
+79. Explain the concept of event bubbling in JavaScript.
+80.  What is a generator function in JavaScript?
+81.  What are the different ways to create objects in JavaScript?
+82.  What is the purpose of the window object in JavaScript?
+83. What is the purpose of the async and await keywords in JavaScript?
+84. List some features of JavaScript.
+85. What is js?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
