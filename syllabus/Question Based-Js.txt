@@ -87,6 +87,22 @@
 87. ist some of the advantages of JavaScript.
 88. List some of the disadvantages of JavaScript.
 89. In JavaScript what is an argument object?
+90. What is the difference between JavaScript and JScript?
+91. What are the key differences between Java and JavaScript? / How is JavaScript different from Java?
+92. Is JavaScript case sensitive language?
+93. What is the use of history object?
+94. Difference between Client side JavaScript and Server side JavaScript?
+95. In which location cookies are stored on the hard disk?
+96. What's the difference between event.preventDefault() and event.stopPropagation() methods in JavaScript?
+97. Are Java and JavaScript same?
+98.  What is negative infinity?
+99.  What is the difference between View state and Session state?
+100. What are the pop-up boxes available in JavaScript?
+101.  How can we detect OS of the client machine using JavaScript?
+102.  Is JavaScript faster than ASP script?
+103. What is the requirement of debugging in JavaScript?
+104. WeakMap 
+105. What are the falsy values in JavaScript, and how can we check if a value is falsy?
 
 
 
