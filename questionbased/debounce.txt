@@ -1,0 +1,5 @@
+what is debouncing in js?
+  
+Debouncing in JavaScript is a technique used to improve performance by delaying the execution of a function until after a certain period of time
+has elapsed since the last time the function was invoked.    This is particularly useful for scenarios like handling user input events 
+such as typing in a search box or resizing a window.  This helps to prevent excessive function calls, which can slow down the application.
